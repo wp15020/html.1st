@@ -1,0 +1,46 @@
+﻿	/*body{
+	background: linear-gradient(-50deg,black,red);
+	}*/
+
+		body{
+		color: #535353;
+		font-size: 13px;
+		line-height: 1.5;
+	}
+	h2{
+		font-size: 185%;
+		border-left: 15px solid #668800;
+	/*	border-top: 1px solid #000000;*/
+		padding-left: 10px;
+
+ 	}
+	address{
+		font-size: 85%;
+		font-style: normal;
+		text-align: right;
+		border-top: 1px solid snow;
+		padding-top: 10px;
+	}
+	h3{
+		padding: 5px;
+		border: 1px solid #668800;
+		font-size: 154%;
+	}
+	h4{
+		font-size: 124%;
+	}
+	table{
+		border: 1px solid #666666;
+		border-collapse: collapse;
+
+	}
+	th{
+		border: 1px solid #999999;
+		padding: 10px;
+		background-color: #cccccc;
+	}
+	td{
+		border: 1px solid #999999;
+		padding: 10px;
+		background-color: #eeeeeee;
+	}
