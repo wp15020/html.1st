@@ -1,6 +1,6 @@
-﻿	body{
+﻿	/*body{
 	background: linear-gradient(-250deg,white,red);
-	}
+	}*/
 
 
 		body{
@@ -23,7 +23,7 @@
 		font-size: 85%;
 		font-style: normal;
 		text-align: right;
-		border-top: 1px solid snow;
+		border-top: 1px solid black;
 		padding-top: 10px;
 		clear: left;
 	}
@@ -32,6 +32,7 @@
 		border: 1px solid #668800;
 		font-size: 154%;
 		clear: left;
+		background-color: #fff;
 	}
 	h4{
 		font-size: 124%;
@@ -128,6 +129,17 @@ li a:link{
 	.zzz{
 		padding-top: 1em;
 	}
-	/*.zzz{
-		margin-top: 1em;
-	}*/
+	.yyy{
+		position: relative;
+		top: 125px;
+		left: 120px;
+	}
+
+	.hhh{
+		position: relative;
+		bottom: 10px
+	}
+
+	.sen{
+		border: 5px ridge gray;
+	}
