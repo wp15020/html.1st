@@ -90,7 +90,7 @@
 		padding: 0;
 		font-size: 12px;
 		overflow:  hidden;
-		background-color: #88aa88;
+		background-color: #8B0000;
 		box-shadow: 5px 5px 5px black
 	}
 	li{
@@ -125,3 +125,4 @@ li a:link{
 	.aaa{
 		box-shadow: 5px 5px 5px black;
 	}
+
